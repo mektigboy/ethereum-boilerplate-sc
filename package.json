@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mektigboy/Ethereum-Smart-Contract-Boilerplate/issues"
   },
-  "homepage": "https://github.com/mektigboy/Ethereum-Smart-Contract-Boilerplate#readme"
+  "homepage": "https://github.com/mektigboy/Ethereum-Smart-Contract-Boilerplate#readme",
+  "dependencies": {
+    "solc": "^0.4.17"
+  }
 }
